@@ -1,0 +1,232 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "AwesomeRails",
+        "source": "README.md",
+        "expand": true,
+        "url": "index.html",
+        "slug": "index",
+        "headings": [
+          {
+            "title": "AwesomeRails",
+            "depth": 2,
+            "id": "awesomerails",
+            "headings": [
+              {
+                "title": "Blogging",
+                "depth": 3,
+                "id": "blogging"
+              },
+              {
+                "title": "Community Management",
+                "depth": 3,
+                "id": "community-management"
+              },
+              {
+                "title": "Crowdfunding & Fundraising",
+                "depth": 3,
+                "id": "crowdfunding-and-fundraising"
+              },
+              {
+                "title": "Developer Tools",
+                "depth": 3,
+                "id": "developer-tools"
+              },
+              {
+                "title": "E-commerce",
+                "depth": 3,
+                "id": "e-commerce"
+              },
+              {
+                "title": "Health",
+                "depth": 3,
+                "id": "health"
+              },
+              {
+                "title": "Learning",
+                "depth": 3,
+                "id": "learning"
+              },
+              {
+                "title": "Music",
+                "depth": 3,
+                "id": "music"
+              },
+              {
+                "title": "Nature",
+                "depth": 3,
+                "id": "nature"
+              },
+              {
+                "title": "Personal Management",
+                "depth": 3,
+                "id": "personal-management"
+              },
+              {
+                "title": "Politics",
+                "depth": 3,
+                "id": "politics"
+              },
+              {
+                "title": "Project Management",
+                "depth": 3,
+                "id": "project-management"
+              },
+              {
+                "title": "Social Networking",
+                "depth": 3,
+                "id": "social-networking"
+              },
+              {
+                "title": "Social Responsibility",
+                "depth": 3,
+                "id": "social-responsibility"
+              },
+              {
+                "title": "Sports",
+                "depth": 3,
+                "id": "sports"
+              },
+              {
+                "title": "Generators",
+                "depth": 3,
+                "id": "generators"
+              },
+              {
+                "title": "Miscellaneous (Not Categorised Yet)",
+                "depth": 3,
+                "id": "miscellaneous-(not-categorised-yet)"
+              }
+            ]
+          },
+          {
+            "title": "Notes",
+            "depth": 2,
+            "id": "notes"
+          },
+          {
+            "title": "Notable Awesome Stuffs",
+            "depth": 2,
+            "id": "notable-awesome-stuffs"
+          }
+        ]
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "AwesomeRails",
+      "pageTitle": "AwesomeRails",
+      "slug": "index",
+      "headings": [
+        {
+          "title": "AwesomeRails",
+          "depth": 2,
+          "id": "awesomerails",
+          "headings": [
+            {
+              "title": "Blogging",
+              "depth": 3,
+              "id": "blogging"
+            },
+            {
+              "title": "Community Management",
+              "depth": 3,
+              "id": "community-management"
+            },
+            {
+              "title": "Crowdfunding & Fundraising",
+              "depth": 3,
+              "id": "crowdfunding-and-fundraising"
+            },
+            {
+              "title": "Developer Tools",
+              "depth": 3,
+              "id": "developer-tools"
+            },
+            {
+              "title": "E-commerce",
+              "depth": 3,
+              "id": "e-commerce"
+            },
+            {
+              "title": "Health",
+              "depth": 3,
+              "id": "health"
+            },
+            {
+              "title": "Learning",
+              "depth": 3,
+              "id": "learning"
+            },
+            {
+              "title": "Music",
+              "depth": 3,
+              "id": "music"
+            },
+            {
+              "title": "Nature",
+              "depth": 3,
+              "id": "nature"
+            },
+            {
+              "title": "Personal Management",
+              "depth": 3,
+              "id": "personal-management"
+            },
+            {
+              "title": "Politics",
+              "depth": 3,
+              "id": "politics"
+            },
+            {
+              "title": "Project Management",
+              "depth": 3,
+              "id": "project-management"
+            },
+            {
+              "title": "Social Networking",
+              "depth": 3,
+              "id": "social-networking"
+            },
+            {
+              "title": "Social Responsibility",
+              "depth": 3,
+              "id": "social-responsibility"
+            },
+            {
+              "title": "Sports",
+              "depth": 3,
+              "id": "sports"
+            },
+            {
+              "title": "Generators",
+              "depth": 3,
+              "id": "generators"
+            },
+            {
+              "title": "Miscellaneous (Not Categorised Yet)",
+              "depth": 3,
+              "id": "miscellaneous-(not-categorised-yet)"
+            }
+          ]
+        },
+        {
+          "title": "Notes",
+          "depth": 2,
+          "id": "notes"
+        },
+        {
+          "title": "Notable Awesome Stuffs",
+          "depth": 2,
+          "id": "notable-awesome-stuffs"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "README.md": "index.html"
+  }
+}
