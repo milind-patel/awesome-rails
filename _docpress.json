@@ -9,106 +9,41 @@
         "slug": "index",
         "headings": [
           {
-            "title": "AwesomeRails",
+            "title": "Table of Contents",
             "depth": 2,
-            "id": "awesomerails",
+            "id": "table-of-contents",
             "headings": [
               {
-                "title": "Blogging",
+                "title": "Essential Links",
                 "depth": 3,
-                "id": "blogging"
+                "id": "essential-links"
               },
               {
-                "title": "Community Management",
+                "title": "Videos",
                 "depth": 3,
-                "id": "community-management"
+                "id": "videos"
               },
               {
-                "title": "Crowdfunding & Fundraising",
+                "title": "Books",
                 "depth": 3,
-                "id": "crowdfunding-and-fundraising"
+                "id": "books"
               },
               {
-                "title": "Developer Tools",
+                "title": "Apps Made with Rails",
                 "depth": 3,
-                "id": "developer-tools"
+                "id": "apps-made-with-rails"
               },
               {
-                "title": "E-commerce",
+                "title": "Other Rails Tools",
                 "depth": 3,
-                "id": "e-commerce"
+                "id": "other-rails-tools"
               },
               {
-                "title": "Health",
+                "title": "Notable Awesome Stuffs",
                 "depth": 3,
-                "id": "health"
-              },
-              {
-                "title": "Learning",
-                "depth": 3,
-                "id": "learning"
-              },
-              {
-                "title": "Music",
-                "depth": 3,
-                "id": "music"
-              },
-              {
-                "title": "Nature",
-                "depth": 3,
-                "id": "nature"
-              },
-              {
-                "title": "Personal Management",
-                "depth": 3,
-                "id": "personal-management"
-              },
-              {
-                "title": "Politics",
-                "depth": 3,
-                "id": "politics"
-              },
-              {
-                "title": "Project Management",
-                "depth": 3,
-                "id": "project-management"
-              },
-              {
-                "title": "Social Networking",
-                "depth": 3,
-                "id": "social-networking"
-              },
-              {
-                "title": "Social Responsibility",
-                "depth": 3,
-                "id": "social-responsibility"
-              },
-              {
-                "title": "Sports",
-                "depth": 3,
-                "id": "sports"
-              },
-              {
-                "title": "Generators",
-                "depth": 3,
-                "id": "generators"
-              },
-              {
-                "title": "Miscellaneous (Not Categorised Yet)",
-                "depth": 3,
-                "id": "miscellaneous-(not-categorised-yet)"
+                "id": "notable-awesome-stuffs"
               }
             ]
-          },
-          {
-            "title": "Notes",
-            "depth": 2,
-            "id": "notes"
-          },
-          {
-            "title": "Notable Awesome Stuffs",
-            "depth": 2,
-            "id": "notable-awesome-stuffs"
           }
         ]
       }
@@ -122,106 +57,41 @@
       "slug": "index",
       "headings": [
         {
-          "title": "AwesomeRails",
+          "title": "Table of Contents",
           "depth": 2,
-          "id": "awesomerails",
+          "id": "table-of-contents",
           "headings": [
             {
-              "title": "Blogging",
+              "title": "Essential Links",
               "depth": 3,
-              "id": "blogging"
+              "id": "essential-links"
             },
             {
-              "title": "Community Management",
+              "title": "Videos",
               "depth": 3,
-              "id": "community-management"
+              "id": "videos"
             },
             {
-              "title": "Crowdfunding & Fundraising",
+              "title": "Books",
               "depth": 3,
-              "id": "crowdfunding-and-fundraising"
+              "id": "books"
             },
             {
-              "title": "Developer Tools",
+              "title": "Apps Made with Rails",
               "depth": 3,
-              "id": "developer-tools"
+              "id": "apps-made-with-rails"
             },
             {
-              "title": "E-commerce",
+              "title": "Other Rails Tools",
               "depth": 3,
-              "id": "e-commerce"
+              "id": "other-rails-tools"
             },
             {
-              "title": "Health",
+              "title": "Notable Awesome Stuffs",
               "depth": 3,
-              "id": "health"
-            },
-            {
-              "title": "Learning",
-              "depth": 3,
-              "id": "learning"
-            },
-            {
-              "title": "Music",
-              "depth": 3,
-              "id": "music"
-            },
-            {
-              "title": "Nature",
-              "depth": 3,
-              "id": "nature"
-            },
-            {
-              "title": "Personal Management",
-              "depth": 3,
-              "id": "personal-management"
-            },
-            {
-              "title": "Politics",
-              "depth": 3,
-              "id": "politics"
-            },
-            {
-              "title": "Project Management",
-              "depth": 3,
-              "id": "project-management"
-            },
-            {
-              "title": "Social Networking",
-              "depth": 3,
-              "id": "social-networking"
-            },
-            {
-              "title": "Social Responsibility",
-              "depth": 3,
-              "id": "social-responsibility"
-            },
-            {
-              "title": "Sports",
-              "depth": 3,
-              "id": "sports"
-            },
-            {
-              "title": "Generators",
-              "depth": 3,
-              "id": "generators"
-            },
-            {
-              "title": "Miscellaneous (Not Categorised Yet)",
-              "depth": 3,
-              "id": "miscellaneous-(not-categorised-yet)"
+              "id": "notable-awesome-stuffs"
             }
           ]
-        },
-        {
-          "title": "Notes",
-          "depth": 2,
-          "id": "notes"
-        },
-        {
-          "title": "Notable Awesome Stuffs",
-          "depth": 2,
-          "id": "notable-awesome-stuffs"
         }
       ]
     }
